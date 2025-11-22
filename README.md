@@ -23,8 +23,8 @@ A simple Application of Flex in rendering a QR code component, with focus on sem
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ibitoy3/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://ibitoy3.github.io/QR-Code-Component/)
+- Solution URL: [This Leads to the Github Repo](https://github.com/ibitoy3/QR-Code-Component)
+- Live Site URL: [A live site hosted on github](https://ibitoy3.github.io/QR-Code-Component/)
 
 ## My process
 
